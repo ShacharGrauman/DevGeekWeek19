@@ -7,6 +7,7 @@ We will explore the new Let variable declaration of JavaScript, deep diving the 
 Working with constant, static, classes and inheritance in ES6.
 Promises creation and usages VS Async await as comfortable way to write your “sync” code.
 How can Typescript help you to scale your JavaScript application to use Native OOP?
+
 Prerequisites
 
     JavaScript
